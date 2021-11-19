@@ -1,4 +1,4 @@
-# grim
+# Grim
 
 # This is a personalized search engine
 
